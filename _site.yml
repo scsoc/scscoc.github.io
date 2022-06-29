@@ -1,0 +1,13 @@
+name: "Society for the COgnitive Science of Culture"
+navbar:
+  title: "SCSC"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "The Society"
+      href: SocietyInfo.html
+    - text: "Join"
+      href: Join.html
+#    - text: "Links"
+#      href: Links.html
+output_dir: "docs"
