@@ -21,6 +21,8 @@ output: html_document
 # **The Society for the Cognitive Science of Culture**
 
 This is the website of the Society for the Cognitive Science of Culture. Currently under construction.
+
+![](images/SCSC_2.jpg)
 :::
 
 ::: col-sm-6

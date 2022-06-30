@@ -1,5 +1,5 @@
 ---
-title: "Join the SCSC"
+title: "Becoming a member the SCSC"
 output:
   html_document:
  #   code_folding: hide
@@ -14,6 +14,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ## [Join The Society](https://docs.google.com/forms/d/e/1FAIpQLSfaQ6liiNrkIx3CXVfSu4BZvK5f2pUdE8tMltqRx9SN5ojiHQ/viewform)
 
+::: col-sm-6
+![](images/scripts.jpg){width="1024"}
 The society has an annual membership fee of EUR30, which is waived for scholars who are not in a position to contribute financially. Your annual membership helps to fund the annual meeting and to provide bursaries for students and researchers who could not otherwise participate in the society's activities. If you wish to apply for a waiver of the membership fee, please tell us why in the membership form [here](https://docs.google.com/forms/d/e/1FAIpQLSfaQ6liiNrkIx3CXVfSu4BZvK5f2pUdE8tMltqRx9SN5ojiHQ/viewform)
+:::
