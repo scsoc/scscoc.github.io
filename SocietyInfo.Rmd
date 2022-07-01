@@ -148,5 +148,4 @@ David Share (University of Haifa, Israel), [dshare\@edu.haifa.ac.il](mailto:dsha
 
 Mila Schwartz (University of Haifa, Israel), [milasch\@post.bgu.ac.il](mailto:milasch@post.bgu.ac.il){.email}
 
-Last compiled: `r Sys.Date()` \# {.unnumbered}
 :::

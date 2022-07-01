@@ -8,6 +8,9 @@ navbar:
       href: SocietyInfo.html
     - text: "Join"
       href: Join.html
+    - text: "Annual Meetings"
+      href: AnnualMeeting.html
+      
 #    - text: "Links"
 #      href: Links.html
 output_dir: "docs"
