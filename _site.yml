@@ -10,6 +10,8 @@ navbar:
       href: Join.html
     - text: "Annual Meetings"
       href: AnnualMeeting.html
+    - text: "Contact"
+      href: Contact.html
       
 #    - text: "Links"
 #      href: Links.html

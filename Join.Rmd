@@ -14,10 +14,12 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 ## [Join The Society](https://docs.google.com/forms/d/e/1FAIpQLSfaQ6liiNrkIx3CXVfSu4BZvK5f2pUdE8tMltqRx9SN5ojiHQ/viewform)
 
 ::: col-sm-6
-![](images/scripts.jpg){width="1024"}
-The society has an annual membership fee of EUR30, which is waived for scholars who are not in a position to contribute financially. Your annual membership helps to fund the annual meeting and to provide bursaries for students and researchers who could not otherwise participate in the society's activities. If you wish to apply for a waiver of the membership fee, please tell us why in the membership form [here](https://docs.google.com/forms/d/e/1FAIpQLSfaQ6liiNrkIx3CXVfSu4BZvK5f2pUdE8tMltqRx9SN5ojiHQ/viewform)
+![](images/scripts.jpg){width="1024"} Annual membership of the society costs EUR30. Your annual membership helps to fund the annual meeting and to provide bursaries for students and researchers who could not otherwise participate in the society's activities. To apply for membership, please submit your details using the Google Form [here\*](https://docs.google.com/forms/d/e/1FAIpQLSfaQ6liiNrkIx3CXVfSu4BZvK5f2pUdE8tMltqRx9SN5ojiHQ/viewform).
+
+Scholars wishing to apply for a waiver of the annual membership fee are cordially invited to do so.
+
+\*Please note that any details you submit via this form are not securely encrypted, please do not post any sensitive information.
 :::

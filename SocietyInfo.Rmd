@@ -34,13 +34,12 @@ The [Journal of Cultural Cognitive Science](https://www.springer.com/journal/418
 The [Journal of Cultural Cognitive Science](https://www.springer.com/journal/41809) (published by Springer Nature) is the official journal of the society.
 
 ![](images/SCSC_1-1024x768.jpg)
+
 :::
 
 ::: col-sm-6
 
 #  {.tabset .tabset-fade .tabset-pills}
-
-
 
 # News {.tabset .tabset-fade .tabset-pills}
 

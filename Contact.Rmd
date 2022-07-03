@@ -1,0 +1,43 @@
+---
+title: "Contact"
+output:
+  html_document:
+    #code_folding: hide
+    toc: false
+    toc_float: true
+    collapsed: true
+    number_sections: false
+    toc_depth: 3
+---
+
+```{=html}
+<style>
+  .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a,     .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+     background-color: CadetBlue; 
+     }
+</style>
+```
+<!-- https://www.angularfix.com/2021/10/how-to-change-tabset-colors-without.html -->
+
+```{r setup, include=FALSE}
+    knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+**Contact**
+
+*For queries relating to the website:*
+
+[webmaster\(at\}culturalcogsci.org](mailto:webmaster@culturalcogsci.org)
+
+*For general enquiries about the society:*
+
+[scscult\(at\}gmail.com](mailto:scscult@gmail.com)
+
+**Disclaimer of Responsibility**
+
+The SCSC is responsible for the content of the pages hosted at culturalcogsci.org and assumes no responsibility for the content or functioning of any linked webpages
+However, no guarantee is given that information is up-to-date, correct or complete. No guarantee is provided for the quality of information herein contained.
+
+**Copyright © SCSC, 2022**
+
+Except where noted, all content of this website is copyright of the Society for the Cognitive Science of Culture, and may not be reused without permission.s
