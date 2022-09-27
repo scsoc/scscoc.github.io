@@ -22,16 +22,25 @@ output:
 ```{r setup, include=FALSE}
     knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
+**Address:** 
+The headquarters of the society are located in the premises of 
+Faculdade de Psicologia, Universidade de Lisboa, 1649-013 Lisboa
 
-**Contact**
+**VAT Number:** 
+516941739
 
-*For queries relating to the website:*
+**Social security number:**
+25169417395
 
-[webmaster\(at\}culturalcogsci.org](mailto:webmaster@culturalcogsci.org)
 
-*For general enquiries about the society:*
 
-[scscult\(at\}gmail.com](mailto:scscult@gmail.com)
+***For queries relating to the website:***
+
+contact: [webmaster\(at\}culturalcogsci.org](mailto:webmaster@culturalcogsci.org)
+
+***For general enquiries about the society:***
+
+contact: [scscult\(at\}gmail.com](mailto:scscult@gmail.com)
 
 **Disclaimer of Responsibility**
 
@@ -40,4 +49,4 @@ However, no guarantee is given that information is up-to-date, correct or comple
 
 **Copyright © SCSC, 2022**
 
-Except where noted, all content of this website is copyright of the Society for the Cognitive Science of Culture, and may not be reused without permission.s
+Except where noted, all content of this website is copyright of the Society for the Cognitive Science of Culture, and may not be reused without permission.
