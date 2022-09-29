@@ -19,12 +19,12 @@ output: html_document
 
 ::: col-sm-6
 # **The Society for the Cognitive Science of Culture**
+This is the website of the Society for the Cognitive Science of Culture. Please note that the site is currently under construction.
 
 ## **NEWS**
 
-[**The 6th SCSC workshop is provisionally scheduled to be held in Rio de Janeiro (Brazil) in September 2023, organised by Marcus Maia and Bruna Franchetto.**](AnnualMeeting.html)
+[**The 6th SCSC workshop will be held in Rio de Janeiro (Brazil) 20-22 September 2023. The meeting will be organised by Marcus Maia and Bruna Franchetto.**](AnnualMeeting.html)
 
-This is the website of the Society for the Cognitive Science of Culture. Please note that the site is currently under construction.
 
 ![](images/SCSC_2.jpg)
 
