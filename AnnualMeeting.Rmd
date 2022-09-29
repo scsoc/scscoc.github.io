@@ -25,16 +25,15 @@ output:
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-The 6th SCSC workshop is provisionally scheduled to be held in Rio de Janeiro (Brazil) in September 2023, organised by Marcus Maia and Bruna Franchetto.
+The 6th SCSC workshop will be held in Rio de Janeiro (Brazil) 20 to 22 September 2023. The local organisers are Marcus Maia and Bruna Franchetto.
 
 ## Madrid (2022)
 
 The 5th SCSC workshop was held at the beautiful [Princesa campus](https://www.nebrija.com/la_universidad/visita-virtual/como-llegar-nebrija.php) in the heart of Madrid on 2 and 3 May 2022, organized by Jon Duñabeitia.
 
-The event will be hosted in connection with the [ACELERA](https://www.nebrija.com/investigacion-universidad/red-acelera/) Network and as a satellite event to the International [APPE-SEPEX](https://appesepexmeeting.appe.pt/) Meeting that will be held in Faro (Portugal) between 5-7 May 2022.
+The event was hosted in connection with the [ACELERA](https://www.nebrija.com/investigacion-universidad/red-acelera/) Network and as a satellite event to the International [APPE-SEPEX](https://appesepexmeeting.appe.pt/) Meeting held in Faro (Portugal) 5-7 May 2022.
 
 ## Kaiserslauten (2021)
-
 
 The 4th SCSC workshop was held in Frankenstein/Kaiserslautern, Germany, from 1 to 3 October 2021, organized by Thomas Lachmann, Réka Vágvölgyi, Aleksandar Bulajić, and Kirstin Bergstroem.
 
