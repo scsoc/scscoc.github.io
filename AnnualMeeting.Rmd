@@ -25,7 +25,7 @@ output:
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-**The 6th SCSC workshop will be held in Rio de Janeiro (Brazil) 20 to 22 September 2023. The local organisers are Marcus Maia and Bruna Franchetto.**
+**The 6th SCSC workshop will be held in Rio de Janeiro (Brazil) 20 to 22 September 2023. The local organisers are [Marcus Maia](https://www.talktothewordlab.com/exmoparticipants/marcus-maia) and Bruna Franchetto.**
 
 
 ## Madrid (2022)
