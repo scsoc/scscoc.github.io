@@ -21,12 +21,17 @@ output: html_document
 # **The Society for the Cognitive Science of Culture**
 This is the website of the Society for the Cognitive Science of Culture. 
 
+
+## [**Mission**](SocietyInfo.html)
+**The SCSC aims to promote research into the role of culture on cognition, with a particular focus on extending research beyond WEIRD populations. We welcome members from the global research community and we aim to foster collaborations between researchers who are interested in understanding the role of culture and cultural artefacts on the human mind.** 
+
+![](images/SCSC_2.jpg)
+
+
+
 ## **NEWS**
 
 [**The 6th SCSC workshop will be held in Rio de Janeiro (Brazil) 20-22 September 2023. The meeting will be organised by Marcus Maia and Bruna Franchetto.**](AnnualMeeting.html)
-
-
-![](images/SCSC_2.jpg)
 
 **Copyright © SCSC, 2022**
 
