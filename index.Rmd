@@ -19,7 +19,7 @@ output: html_document
 
 ::: col-sm-6
 # **The Society for the Cognitive Science of Culture**
-This is the website of the Society for the Cognitive Science of Culture. Please note that the site is currently under construction.
+This is the website of the Society for the Cognitive Science of Culture. 
 
 ## **NEWS**
 
