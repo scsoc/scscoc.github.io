@@ -25,7 +25,6 @@ output:
 
 **SCSC was founded on 22 June 2018 in Lisbon (Portugal).**
 
-The [Journal of Cultural Cognitive Science](https://www.springer.com/journal/41809) (published by Springer Nature) is the official journal of the society.
 
 <!-- | ![](images/SCSC_1-1024x768.jpg) | ![](images/SCSC_2.jpg) | ![](images/scripts.jpg){width="1024"} | -->
 <!-- |---------------------------------|------------------------|---------------------------------------| -->
