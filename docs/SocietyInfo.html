@@ -13,7 +13,7 @@
 
 <title>Society Information</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -303,9 +300,10 @@ class="section level1 tabset tabset-fade tabset-pills">
 </div>
 <div id="news" class="section level1 tabset tabset-fade tabset-pills">
 <h1 class="tabset tabset-fade tabset-pills">News</h1>
-<p>The 6th SCSC workshop is provisionally scheduled to be held in Rio de
-Janeiro (Brazil) in September 2023, organised by Marcus Maia and Bruna
-Franchetto.</p>
+<p>The SCSC organises an <a href="AnnualMeeting.html">annual meeting</a>
+to bring togetehr our diverse community. <a
+href="AnnualMeeting.html">Click here for details of past and future
+meetings</a></p>
 <div id="scsc-governing-board-2021-2022" class="section level2">
 <h2>SCSC Governing Board 2021-2022</h2>
 <ul>
@@ -334,7 +332,7 @@ Thomas Lachmann (Kaiserslautern, Germany)</p></li>
 <div id="society-aims" class="section level2">
 <h2>Society Aims</h2>
 <p>Traditional cognitive science has largely ignored cultural influences
-on cognition and has also pre-dominantly concentrated on a group of
+on cognition and has also predominantly concentrated on a group of
 people who are not particularly representative of the world’s population
 as a whole. Yet, today, we have an increasing amount of empirical and
 theoretical work that emphasizes cultural and social influences on mind

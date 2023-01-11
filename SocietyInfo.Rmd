@@ -41,8 +41,7 @@ The [Journal of Cultural Cognitive Science](https://www.springer.com/journal/418
 #  {.tabset .tabset-fade .tabset-pills}
 
 # News {.tabset .tabset-fade .tabset-pills}
-
-The 6th SCSC workshop is provisionally scheduled to be held in Rio de Janeiro (Brazil) in September 2023, organised by Marcus Maia and Bruna Franchetto.
+The SCSC organises an [annual meeting](AnnualMeeting.html) to bring togetehr our diverse community. [Click here for details of past and future meetings](AnnualMeeting.html)
 
 ## SCSC Governing Board 2021-2022
 
