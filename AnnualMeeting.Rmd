@@ -25,7 +25,7 @@ output:
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-**The 6th SCSC workshop will be held in Hyderabad (India) in November 2023. The local organiser is Ramesh Mishra**
+**The 6th SCSC workshop will be held in Hyderabad (India) in November 2023. The local organiser is [Ramesh Mishra](https://rameshkumarmishra.wordpress.com/)**
 
 ## Madrid (2022)
 
