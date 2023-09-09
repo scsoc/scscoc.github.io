@@ -25,7 +25,9 @@ output:
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-**The 6th SCSC workshop scheduled to take place in Hyderabad (India) in November 2023, has been cancelled with regeret.**
+**The 6th Annual Meeting of the Society will be held in April 2024 in Valencia, Spain. Organised by Manuel Perea. Details will follow in due course.**
+
+**The SCSC workshop scheduled to take place in Hyderabad (India) in November 2023, has been cancelled with regeret.**
 
 ## Madrid (2022)
 
