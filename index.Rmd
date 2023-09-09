@@ -31,7 +31,7 @@ This is the website of the Society for the Cognitive Science of Culture.
 
 ## **NEWS**
 
-**The Next Annual Meeting of the Society will be held in April 2024 in Valencia, Spain. Organised by Manuel Perea. Details will follow in due course.**
+**The Next [Annual Meeting](AnnualMeeting.html) of the Society will be held in April 2024 in Valencia, Spain. Organised by Manuel Perea. Details will follow in due course.**
 
 
 We are proud to announce that the society's journal: [The Journal of Cultural Cognitive Science received its first Impact Factor (1.8)](https://www.springer.com/journal/41809) We welcome your submissions!
