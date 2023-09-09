@@ -48,7 +48,7 @@ contact: [scscult\(at\}gmail.com](mailto:scscult@gmail.com)
 The SCSC is responsible for the content of the pages hosted at culturalcogsci.org and assumes no responsibility for the content or functioning of any linked webpages
 However, no guarantee is given that information is up-to-date, correct or complete. No guarantee is provided for the quality of information herein contained.
 
-**Copyright © SCSC, 2022**
+**Copyright © SCSC, 2023**
 
 Except where noted, all content of this website is copyright of the Society for the Cognitive Science of Culture, and may not be reused without permission.
 :::
