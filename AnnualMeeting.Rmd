@@ -25,7 +25,7 @@ output:
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-**The 6th Annual Meeting of the Society will take place on 11-12 April 2024 at the School of Psychology at the University of Valencia, Spain. Organised by Manuel Perea. Details will follow in due course.**
+**The 6th Annual Meeting of the Society will take place on 11-12 April 2024 at the School of Psychology at the University of Valencia, Spain. Organised by Manuel Perea, details will follow in due course.**
 
 ## Madrid (2022)
 
