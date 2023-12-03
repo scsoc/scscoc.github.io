@@ -25,7 +25,13 @@ output:
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-**The 6th Annual Meeting of the Society will take place on 11-12 April 2024 at the School of Psychology at the University of Valencia, Spain. Organised by Manuel Perea, details will follow in due course.**
+**The 6th Annual Meeting of the Society will take place over 10-14th April 2024 at the School of Psychology at the University of Valencia, Spain. [Click here](https://esdeveniments.uv.es/107864/detail/sixth-annual-meeting-of-the-society-for-the-cognitive-science-of-culture.html) to access the conference website.**
+```{r Annual Meeting Link Picture, echo=FALSE, out.width='512px',fig.align='center',tidy=FALSE}
+source('image_link.R')
+il<-image_link('https://www.uv.es/esdeveniment/2023/Sixth-Annual-Meeting-Scie/JMPD8_SCSC_2024_VLC_centrado.png','https://esdeveniments.uv.es/107864/detail/sixth-annual-meeting-of-the-society-for-the-cognitive-science-of-culture.html')
+il
+```
+<br/>
 
 ## Madrid (2022)
 
