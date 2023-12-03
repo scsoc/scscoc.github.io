@@ -41,7 +41,8 @@ The [Journal of Cultural Cognitive Science](https://www.springer.com/journal/418
 #  {.tabset .tabset-fade .tabset-pills}
 
 # News {.tabset .tabset-fade .tabset-pills}
-The SCSC organises an [annual meeting](AnnualMeeting.html) to bring togetehr our diverse community. [Click here for details of past and future meetings](AnnualMeeting.html)
+The SCSC organises an [annual meeting](AnnualMeeting.html) to bring together our diverse community. [Click here for details of past and future meetings](AnnualMeeting.html)
+**The Next [Annual Meeting]('https://esdeveniments.uv.es/107864/detail/sixth-annual-meeting-of-the-society-for-the-cognitive-science-of-culture.html) of the Society will be held 11-13 April 2024 in Valencia, Spain, with satellite symposia on 10th April**
 
 ## SCSC  Board 2022-2023
 
