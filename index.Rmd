@@ -31,7 +31,7 @@ This is the website of the Society for the Cognitive Science of Culture.
 
 ## **NEWS**
 
-**The Next [Annual Meeting]('https://esdeveniments.uv.es/107864/detail/sixth-annual-meeting-of-the-society-for-the-cognitive-science-of-culture.html') of the Society will be held 11-13 April 2024 in Valencia, Spain, with satellite symposia on 10th April**
+**The Next [Annual Meeting](https://esdeveniments.uv.es/107864/detail/sixth-annual-meeting-of-the-society-for-the-cognitive-science-of-culture.html) of the Society will be held 11-13 April 2024 in Valencia, Spain, with satellite symposia on 10th April**
 ```{r Annual Meeting Link Picture, echo=FALSE, out.width='512px',fig.align='center',tidy=FALSE}
 source('image_link.R')
 il<-image_link('https://www.uv.es/esdeveniment/2023/Sixth-Annual-Meeting-Scie/JMPD8_SCSC_2024_VLC_centrado.png','https://esdeveniments.uv.es/107864/detail/sixth-annual-meeting-of-the-society-for-the-cognitive-science-of-culture.html',width='512px')
